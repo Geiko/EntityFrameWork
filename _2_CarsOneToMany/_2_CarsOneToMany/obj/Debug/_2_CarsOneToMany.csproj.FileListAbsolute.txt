@@ -1,0 +1,16 @@
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\_2_CarsOneToMany.exe.config
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\_2_CarsOneToMany.exe
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\_2_CarsOneToMany.pdb
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\EntityFramework.dll
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\EntityFramework.SqlServer.dll
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\EntityFramework.xml
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\bin\Debug\EntityFramework.SqlServer.xml
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.Form1.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.Properties.Resources.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.csproj.GenerateResource.Cache
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.exe
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.pdb
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.AllBrands.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.BrandForm.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_2_CarsOneToMany\_2_CarsOneToMany\obj\Debug\_2_CarsOneToMany.ModelForm.resources

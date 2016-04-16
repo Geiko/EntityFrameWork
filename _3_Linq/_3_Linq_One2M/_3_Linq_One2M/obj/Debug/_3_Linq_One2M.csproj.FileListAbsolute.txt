@@ -1,0 +1,16 @@
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\_3_Linq_One2M.exe.config
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\_3_Linq_One2M.exe
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\_3_Linq_One2M.pdb
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\EntityFramework.dll
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\EntityFramework.SqlServer.dll
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\EntityFramework.xml
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\bin\Debug\EntityFramework.SqlServer.xml
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.AllBrands.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.BrandForm.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.Form1.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.ModelForm.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.Properties.Resources.resources
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.csproj.GenerateResource.Cache
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.exe
+D:\My\IT\STEP\18 EntityFrameWork\HomeWorks\_3_Linq\_3_Linq_One2M\_3_Linq_One2M\obj\Debug\_3_Linq_One2M.pdb
